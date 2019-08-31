@@ -1,11 +1,11 @@
 # code_samples
 Sample codes from several projects I have worked on: 
-- SpaceIL Landing Site Selection
+- [SpaceIL Landing Site Selection](spaceIL)
 
   A project I did mainly before my Master's degree at Weizmann Institute, and kept update until the Lunar "non-soft" landing :alien: on April 2019. 
   I present here two aspects of the project (**matlab** codes). 
 
-- Magnetization of Dusty Ice Deposits
+- [Magnetization of Dusty Ice Deposits](iceMag)
 
   My Master's thesis. This project involved lab experiments and modelling. 
   Without too many details, I present here an app I developed to control several lab instruments (**matlab app designer**), 
@@ -13,4 +13,4 @@ Sample codes from several projects I have worked on:
   
   (hopefully I will also upload soon some parts of the model)
 
-- General Utilities I wrote which I use frequently in my work
+- [General Utilities I wrote which I use frequently in my work](utils)
