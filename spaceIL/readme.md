@@ -13,8 +13,7 @@ Beside a comfortable tool for examining the site, using this functions one can p
 ![lrocoverlay](lrocOverlay.png)
 
 
-## 2. findMinMap.m 
+## 2. [findMinMap.m](findMinMap.m)
 Within each area selected as final candidate for landing, I performed optimization proccess for each criteria, searching for the minimal (or maximal) value for each optional landing site within the proposed area. For that purpose I wrote the function **findMinMap**, which I call seperatly for each map, which returns the best location. 
 
-## Bonus: 
-[!landing](landing.gif)
+## Bonus!(landing.gif)
