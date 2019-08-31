@@ -1,6 +1,6 @@
 # Sample Codes from the SpaceIL Landing Site Selection Project 
 
-## 1. findLroc.m & lrocOnSite.m 
+## 1. (findLroc.m) & lrocOnSite.m 
 LROC NAC images are high resolution images of the moon. For each landing site I found the relevant images using the function **findLroc**, which return an object (matlab structure) that contains all information about those images. It can show on each requested map the locations of those images (frames), and can donwload them from the LROC server. 
 
 ![LROC_frames](albedo_with_LROC_frames.png)
