@@ -13,4 +13,13 @@ Sample codes from several projects I have worked on:
   
   (hopefully I will also upload soon some parts of the model)
 
+
+- [Cifar-10 at a glimpse](cifar_glimpse)
+
+  AI-Art side project of mine. Cifar-10 is a famous catalogue of images vastly used in machine and deep learning. 
+  I here show a way to see the whole catalogue in a single ocmposite image (or at least a major part of it): 
+  
+  <img src="cifar_glimpse/horse_composite.png" alt="horse_composite"/>
+
+  
 - [General Utilities I wrote which I use frequently in my work](utils)
