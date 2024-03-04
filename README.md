@@ -4,6 +4,7 @@ Sample codes from several projects I have worked on:
 
   Your Sudoku solver assistant: just scan your partly solved Sudoku and see the next step for solution!
   This side project required to train [a sudoku detector](https://github.com/yuvalgrossman/SudokuSolver/tree/main/detector) (printed and hand-written digits classifier), a sudoku solver algorithm, a web UI (with some help of ChatGPT) and a deployment to google app engine (not completed). 
+<img src="sod_det.png" alt="sudoku_detection" height=300>
 
 - [SpaceIL Landing Site Selection](spaceIL)
 
