@@ -1,5 +1,10 @@
 # code_samples
 Sample codes from several projects I have worked on: 
+- [SudokuSolver](https://github.com/yuvalgrossman/SudokuSolver/tree/main)
+
+  Your Sudoku solver assistant: just scan your partly solved Sudoku and see the next step for solution!
+  This side project required to train [a sudoku detector](https://github.com/yuvalgrossman/SudokuSolver/tree/main/detector) (printed and hand-written digits classifier), a sudoku solver algorithm, a web UI (with some help of ChatGPT) and a deployment to google app engine (not completed). 
+
 - [SpaceIL Landing Site Selection](spaceIL)
 
   A project I did mainly before my Master's degree at Weizmann Institute, and kept update until the Lunar "non-soft" landing :alien: on April 2019. 
